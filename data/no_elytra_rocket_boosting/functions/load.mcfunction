@@ -1,0 +1,3 @@
+scoreboard objectives add no_elytra_rocket_boosting_usedFireworkRocket minecraft.used:minecraft.firework_rocket
+
+execute unless score #enable_elytra_boosting no_elytra_rocket_boosting_usedFireworkRocket matches 0..1 run scoreboard players set #enable_elytra_boosting no_elytra_rocket_boosting_usedFireworkRocket 0
