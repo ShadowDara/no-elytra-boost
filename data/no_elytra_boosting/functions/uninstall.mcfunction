@@ -1,0 +1,3 @@
+scoreboard objectives remove no_elytra_rocket_boosting_usedFireworkRocket
+scoreboard objectives remove no_elytra_boosting
+scoreboard objectives remove no_elytra_boosting_paste

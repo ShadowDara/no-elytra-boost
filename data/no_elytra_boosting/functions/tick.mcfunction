@@ -1,0 +1,1 @@
+execute as @a if score no_elytra_boosting no_elytra_boosting matches 1 run execute if score @s no_elytra_boosting matches 1 run execute if score @s no_elytra_rocket_boosting_usedFireworkRocket matches 1.. if predicate no_elytra_boosting:flying_with_elytra_equiped at @s run function no_elytra_boosting:break_elytra

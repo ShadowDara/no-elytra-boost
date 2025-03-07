@@ -1,2 +1,0 @@
-execute as @a if score @s no_elytra_rocket_boosting_usedFireworkRocket matches 1.. unless score #enable_elytra_boosting no_elytra_rocket_boosting_usedFireworkRocket matches 1 if predicate no_elytra_rocket_boosting:flying_with_elytra_equiped at @s run function no_elytra_rocket_boosting:break_elytra
-scoreboard players reset @a no_elytra_rocket_boosting_usedFireworkRocket

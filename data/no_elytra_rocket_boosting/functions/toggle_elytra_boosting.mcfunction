@@ -1,3 +1,0 @@
-execute if score #enable_elytra_boosting no_elytra_rocket_boosting_usedFireworkRocket matches 0 run scoreboard players set #enable_elytra_boosting no_elytra_rocket_boosting_usedFireworkRocket 2
-execute if score #enable_elytra_boosting no_elytra_rocket_boosting_usedFireworkRocket matches 1 run scoreboard players set #enable_elytra_boosting no_elytra_rocket_boosting_usedFireworkRocket 0
-execute if score #enable_elytra_boosting no_elytra_rocket_boosting_usedFireworkRocket matches 2 run scoreboard players set #enable_elytra_boosting no_elytra_rocket_boosting_usedFireworkRocket 1

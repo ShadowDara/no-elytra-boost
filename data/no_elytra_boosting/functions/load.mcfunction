@@ -1,0 +1,5 @@
+scoreboard objectives add no_elytra_rocket_boosting_usedFireworkRocket minecraft.used:minecraft.firework_rocket
+scoreboard objectives add no_elytra_boosting dummy
+scoreboard objectives add no_elytra_boosting_paste dummy
+
+schedule function no_elytra_boosting:10s 10s
