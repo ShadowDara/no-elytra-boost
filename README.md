@@ -1,14 +1,13 @@
 # no-elytra-boost
 
-# Modrinth Summary
-
-A Datapack which disables elytra rocket boosting
-
-# Modrinth Description
-
+<!--
 # No eyltra boosting
+A Datapack which disables elytra rocket boosting
+-->
 
 This is a simple Datapack which gives the option to disable using rockets while flying with an Elytra.
+
+### [Download here](https://modrinth.com/datapack/no-elytra-boosting)
 
 ---
 
